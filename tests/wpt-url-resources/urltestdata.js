@@ -27,7 +27,7 @@ export default [
     origin: 'http://foo:21',
     protocol: 'http:',
     username: 'user',
-    password: 'pass',
+    password: '',
     host: 'foo:21',
     hostname: 'foo',
     port: '21',
