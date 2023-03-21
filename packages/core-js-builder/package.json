@@ -22,7 +22,7 @@
   "types": "index.d.ts",
   "dependencies": {
     "core-js": "3.28.0",
-    "core-js-compat": "3.28.0",
+    "core-js-compat": "3.29.0",
     "mkdirp": ">=0.5.5 <1",
     "webpack": ">=4.46.0 <5"
   },
